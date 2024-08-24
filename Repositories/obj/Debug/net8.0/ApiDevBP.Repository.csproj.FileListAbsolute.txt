@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\BPChallenge\Repositories\bin\Debug\net8.0\ApiDevBP.Repository.deps.json
+C:\Users\Diego\source\repos\BPChallenge\Repositories\bin\Debug\net8.0\ApiDevBP.Repository.dll
+C:\Users\Diego\source\repos\BPChallenge\Repositories\bin\Debug\net8.0\ApiDevBP.Repository.pdb
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\ApiDevBP.Repository.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\ApiDevBP.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\ApiDevBP.Repository.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\ApiDevBP.Repository.AssemblyInfo.cs
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\ApiDevBP.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\ApiDevBP.Repository.dll
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\refint\ApiDevBP.Repository.dll
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\ApiDevBP.Repository.pdb
+C:\Users\Diego\source\repos\BPChallenge\Repositories\obj\Debug\net8.0\ref\ApiDevBP.Repository.dll

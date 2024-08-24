@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiDevBP</name>
+    </assembly>
+    <members>
+        <member name="M:ApiDevBP.Controllers.UsersController.GetUsers">
+            <summary>
+            Returns a list of users.
+            </summary>
+            <response code="200">Returns a list of users.</response>
+            <response code="404">No users found.</response>
+            <response code="500">Internal Server Error.</response>
+        </member>
+        <member name="M:ApiDevBP.Controllers.UsersController.GetUserId(System.String,System.String)">
+            <summary>
+            This method provides the ID of a user(s) so that it can be easily accessed
+            </summary>
+            <response code="200">Returns the ID of the users found</response>
+            <response code="400">Invalid request.</response>
+            <response code="500">Internal Server Error.</response>
+        </member>
+        <member name="M:ApiDevBP.Controllers.UsersController.SaveUser(ApiDevBP.Services.Models.UserModel)">
+            <summary>
+            Create a new user.
+            </summary>
+            <response code="200">User created successfully.</response>
+            <response code="400">Invalid request.</response>
+            <response code="500">Internal Server Error.</response>
+        </member>
+        <member name="M:ApiDevBP.Controllers.UsersController.UpdateUser(System.Int32,ApiDevBP.Services.Models.UserModel)">
+            <summary>
+            Modify an existing user using their ID.
+            </summary>
+            <response code="200">User successfully modified.</response>
+            <response code="400">Invalid request.</response>
+            <response code="404">No user found.</response>
+            <response code="500">Internal Server Error.</response>
+        </member>
+        <member name="M:ApiDevBP.Controllers.UsersController.DeleteUser(System.Int32)">
+            <summary>
+            Delete an existing user using their ID.
+            </summary>
+            <response code="200">User successfully deleted.</response>
+            <response code="404">No user found.</response>
+            <response code="500">Internal Server Error.</response>
+        </member>
+    </members>
+</doc>

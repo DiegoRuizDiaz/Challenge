@@ -1,0 +1,15 @@
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ApiDevBP.Services.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ApiDevBP.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ApiDevBP.Services.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ApiDevBP.Services.AssemblyInfo.cs
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ApiDevBP.Services.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\BPChallenge\Services\bin\Debug\net8.0\ApiDevBP.Services.deps.json
+C:\Users\Diego\source\repos\BPChallenge\Services\bin\Debug\net8.0\ApiDevBP.Services.dll
+C:\Users\Diego\source\repos\BPChallenge\Services\bin\Debug\net8.0\ApiDevBP.Services.pdb
+C:\Users\Diego\source\repos\BPChallenge\Services\bin\Debug\net8.0\ApiDevBP.Repository.dll
+C:\Users\Diego\source\repos\BPChallenge\Services\bin\Debug\net8.0\ApiDevBP.Repository.pdb
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ApiDevBP.2E3A3BBD.Up2Date
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ApiDevBP.Services.dll
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\refint\ApiDevBP.Services.dll
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ApiDevBP.Services.pdb
+C:\Users\Diego\source\repos\BPChallenge\Services\obj\Debug\net8.0\ref\ApiDevBP.Services.dll
